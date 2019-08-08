@@ -1,0 +1,7 @@
+{
+  "name": "BluetoothLEDemo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
