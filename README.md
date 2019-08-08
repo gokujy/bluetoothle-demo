@@ -28,17 +28,6 @@ NOTE: It is recommended to install and use nvm (see https://github.com/creationi
    - `ionic cordova run android` to build and run on an Android device   
    - `ionic cordova prepare ios` to build and then start the appropriate XCode workspace and build/run on an iOS device   
 
-## Configuration
-For development or production release please make sure to change configuration file parameters located at <Git>\src\app\app.settings.ts 
-Below are the configuration parameters description
-
-Param             | Description
-----------        | -------------
-`API_URL`         |  API endpoint URL
-`HOME_BANNER_URL` | Home Banner images base URL
-`VERSION`         | Application version number (not used yet)
-`TIMEOUT`         | HTTP timeout, milliseconds (not used yet)
-
 # Creating/publishing release build   
 ## For Android
 
